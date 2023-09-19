@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->[PROJ-4]
-test test [P2-16], thư [P2-14]
+neu nhu co [P1-3]
 
 
 New text for Git Hub integration
